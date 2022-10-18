@@ -1,0 +1,14 @@
+{
+    "copyTabURL": {
+        "description": "Copie a URL da guia para a área de transferência",
+        "message": "Copie a URL da guia para a área de transferência"
+    },
+    "extensionDescription": {
+        "description": "Descrição do complemento.",
+        "message": "Uma extensão simples que adiciona um item de URL 'Copy Tab' ao menu Firefox"
+    },
+    "extensionName": {
+        "description": "Nome da extensão.",
+        "message": "Copie a URL da guia para a área de transferência"
+    }
+}
