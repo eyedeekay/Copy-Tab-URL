@@ -1,0 +1,16 @@
+{
+    "extensionName": {
+        "message": "Copy tab URL to clipboard",
+        "description": "Name of the extension."
+    },
+
+    "extensionDescription": {
+        "message": "A simple extension which adds a 'Copy Tab URL' item to the Firefox menu",
+        "description": "Description of the add-on."
+    },
+
+    "copyTabURL": {
+        "message": "Copy tab URL to clipboard",
+        "description": "Copy tab URL to clipboard"
+    }
+}
