@@ -1,0 +1,14 @@
+{
+    "copyTabURL": {
+        "description": "Tab URL kopieren in der Zwischenablage",
+        "message": "Tab URL kopieren in der Zwischenablage"
+    },
+    "extensionDescription": {
+        "description": "Beschreibung des Add-ons.",
+        "message": "Eine einfache Erweiterung, die ein 'Copy Tab URL'-Element zum Firefox-Menü hinzufügt"
+    },
+    "extensionName": {
+        "description": "Name der Erweiterung.",
+        "message": "Tab URL kopieren in der Zwischenablage"
+    }
+}
