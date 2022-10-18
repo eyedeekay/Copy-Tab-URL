@@ -1,0 +1,14 @@
+{
+    "copyTabURL": {
+        "description": "Copiar URL de la pestaña para el portapapeles",
+        "message": "Copiar URL de la pestaña para el portapapeles"
+    },
+    "extensionDescription": {
+        "description": "Descripción del add-on.",
+        "message": "Una extensión simple que añade un elemento 'Copy Tab URL' al menú Firefox"
+    },
+    "extensionName": {
+        "description": "Nombre de la extensión.",
+        "message": "Copiar URL de la pestaña para el portapapeles"
+    }
+}

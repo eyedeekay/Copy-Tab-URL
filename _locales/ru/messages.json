@@ -1,0 +1,14 @@
+{
+    "copyTabURL": {
+        "description": "Скопировать URL-адрес в буфер обмена",
+        "message": "Скопировать URL-адрес в буфер обмена"
+    },
+    "extensionDescription": {
+        "description": "Описание дополнения.",
+        "message": "Простое расширение, которое добавляет пункт \"Copy Tab\" в меню Firefox"
+    },
+    "extensionName": {
+        "description": "Название расширения.",
+        "message": "Скопировать URL-адрес в буфер обмена"
+    }
+}
