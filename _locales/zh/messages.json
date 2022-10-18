@@ -1,0 +1,14 @@
+{
+    "copyTabURL": {
+        "description": "金字图",
+        "message": "金字图"
+    },
+    "extensionDescription": {
+        "description": "附加说明。.",
+        "message": "A. 简单的扩展,增加了Firefox menuu"
+    },
+    "extensionName": {
+        "description": "延期名称。.",
+        "message": "金字图"
+    }
+}

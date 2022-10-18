@@ -1,0 +1,14 @@
+{
+    "copyTabURL": {
+        "description": "Copiez l'URL de l'onglet à la presse",
+        "message": "Copiez l'URL de l'onglet à la presse"
+    },
+    "extensionDescription": {
+        "description": "Description de l'add-on.",
+        "message": "Une extension simple qui ajoute un élément 'Copy Tab URL' au menu Firefox"
+    },
+    "extensionName": {
+        "description": "Nom de l'extension.",
+        "message": "Copiez l'URL de l'onglet à la presse"
+    }
+}

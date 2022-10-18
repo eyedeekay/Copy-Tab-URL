@@ -1,0 +1,14 @@
+{
+    "copyTabURL": {
+        "description": "دقّة مقطعية",
+        "message": "دقّة مقطعية"
+    },
+    "extensionDescription": {
+        "description": "وصف الإضافات.",
+        "message": "تمديد بسيط يضيف مادة \"كوبي تاب\" إلى قائمة \"فايرفوكس\""
+    },
+    "extensionName": {
+        "description": "اسم التمديد.",
+        "message": "دقّة مقطعية"
+    }
+}
