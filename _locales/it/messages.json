@@ -1,0 +1,14 @@
+{
+    "copyTabURL": {
+        "description": "Copia l'URL della scheda per appunti",
+        "message": "Copia l'URL della scheda per appunti"
+    },
+    "extensionDescription": {
+        "description": "Descrizione del componente aggiuntivo.",
+        "message": "Una semplice estensione che aggiunge una voce 'Copy Tab URL' al menu Firefox"
+    },
+    "extensionName": {
+        "description": "Nome dell'estensione.",
+        "message": "Copia l'URL della scheda per appunti"
+    }
+}

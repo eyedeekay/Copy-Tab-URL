@@ -1,0 +1,14 @@
+{
+    "copyTabURL": {
+        "description": "タブURLをクリップボードにコピーする",
+        "message": "タブURLをクリップボードにコピーする"
+    },
+    "extensionDescription": {
+        "description": "アドオンの説明。.",
+        "message": "'Copy Tab URL' アイテムを Firefox メニューに追加する簡単な拡張"
+    },
+    "extensionName": {
+        "description": "拡張子の名前。.",
+        "message": "タブURLをクリップボードにコピーする"
+    }
+}
